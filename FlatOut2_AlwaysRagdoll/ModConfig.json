@@ -1,0 +1,42 @@
+{
+  "ModId": "FlatOut2_AlwaysRagdoll",
+  "ModName": "FlatOut2_AlwaysRagdoll",
+  "ModAuthor": "Zack Wilde",
+  "ModVersion": "1.0.0",
+  "ModDescription": "You will ragdoll if you take any damage whatsoever",
+  "ModDll": "FlatOut2_AlwaysRagdoll.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/FlatOut2_AlwaysRagdoll.dll",
+  "ModR2RManagedDll64": "x64/FlatOut2_AlwaysRagdoll.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": false,
+  "HasExports": false,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "FlatOut2_AlwaysRagdoll.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubDependencies": {
+      "IdToConfigMap": {
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        }
+      }
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "flatout2.exe"
+  ],
+  "ProjectUrl": ""
+}
