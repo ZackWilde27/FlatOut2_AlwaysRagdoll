@@ -6,6 +6,8 @@ https://github.com/user-attachments/assets/54077058-c013-4452-a5bf-37e905c23872
 
 A fairly simple mod I made a while back
 
+The amount of damage required to ragdoll can be adjusted in the mod's settings
+
 <br>
 
 ## Building
